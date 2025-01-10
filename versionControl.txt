@@ -1,0 +1,16 @@
+
+Git & Github version control system 
+
+1. git init 
+
+------------------------
+Working directory ---> git add filename
+
+2. git stasus
+
+Git staging area ----> git commit
+Repository  --------->
+
+---------------
+
+
