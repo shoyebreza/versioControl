@@ -1,44 +1,68 @@
 
-Git & Github version control system 
+1. Git & Github version control system 
 
-1. git init 
+git init 
 
 ------------------------
-Working directory ---> git add filename
+2. Working directory --->
 
-2. git stasus 
+git add filename
 
-For all file add
+3. seee git status 
 
-3. git add .
+git stasus 
 
-Git staging area ----> git commit
+4.For all file add
 
-4. git commit -m "project setup"
+git add .
 
-for view git commit /log
+5. Git staging area ----> git commit
 
-5. git log
+git commit -m "project setup"
 
-View log in short
+6. for view git commit /log
 
-6. git log --online
+git log
 
-7. Press Q for exit there
+7. View log in short
 
-Changing git Branch /master/main
+git log --online
 
-8. git branch -M main
+8. Press Q for exit there
 
-Add to github Repository
+9. Changing git Branch /master/main
 
-9. git add origin https://github.com/shoyebreza/versioControl.git
+git branch -M main
+
+10. Add to github Repository
+
+git add origin https://github.com/shoyebreza/versioControl.git
 
 Repository  --------->
 
+11. Code push in repository
 
-10. git push -u origin main
+git push -u origin main
 
----------------
+12. For ignoring un nessery file make dot ignore file
 
+.gitignore
+
+13. For ignoring folder name add folder name
+
+folder_name/
+
+14. for unstage/ remove file
+
+git rm --cached filename
+
+15. managing branch/ create new branch
+
+git branch urls
+
+16. switch to branch 
+
+git checkout urls
+
+17. 
 
