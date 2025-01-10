@@ -85,6 +85,12 @@ git merge dynamic_urls
 
 git push origin main
 
+21. back to specific commit 
 
+git checkout #itemcode
+
+22. git resstore code 
+
+git restore --resource-main
 
 
