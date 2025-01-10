@@ -16,7 +16,28 @@ Git staging area ----> git commit
 
 4. git commit -m "project setup"
 
+for view git commit /log
+
+5. git log
+
+View log in short
+
+6. git log --online
+
+7. Press Q for exit there
+
+Changing git Branch /master/main
+
+8. git branch -M main
+
+Add to github Repository
+
+9. git add origin https://github.com/shoyebreza/versioControl.git
+
 Repository  --------->
+
+
+10. git push -u origin main
 
 ---------------
 
