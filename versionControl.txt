@@ -56,6 +56,11 @@ folder_name/
 
 git rm --cached filename
 
+for folder name 
+
+git rm -r --cached task_env/
+
+
 15. managing branch/ create new branch
 
 git branch urls
@@ -76,5 +81,10 @@ git checkout main
 
 git merge dynamic_urls
 
-20. 
+20. push to specific branch 
+
+git push origin main
+
+
+
 
