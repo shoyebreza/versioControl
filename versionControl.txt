@@ -64,5 +64,17 @@ git branch urls
 
 git checkout urls
 
-17. 
+17. Check current branch
+
+git branch
+
+18. switch again branch 
+
+git checkout main
+
+19. merge into main 
+
+git merge dynamic_urls
+
+20. 
 
