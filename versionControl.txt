@@ -6,9 +6,16 @@ Git & Github version control system
 ------------------------
 Working directory ---> git add filename
 
-2. git stasus
+2. git stasus 
+
+For all file add
+
+3. git add .
 
 Git staging area ----> git commit
+
+4. git commit -m "project setup"
+
 Repository  --------->
 
 ---------------
